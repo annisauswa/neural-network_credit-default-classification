@@ -20,10 +20,10 @@
 
 
 ## 👨‍💻 Contributor
+Annisa Uswa Sufia (21/475357/TK/52474) <br/>
 Muchammad Daniyal Kautsar (21/479067/TK/52800) <br/>
 Bintang Restu Bawono(21/474703/TK/52376) <br/>
 Qornain Aji (21/481767/TK/53170) <br/>
-Annisa Uswa Sufia (21/475357/TK/52474) <br/>
 
 
 ## 📁 Presentation Slide
